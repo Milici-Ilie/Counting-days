@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.display_fles {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  /* height: 2rem; */
+  /* width: 2.5rem; */
+}
+
+.buttons {
+  height: 2rem;
+  width: 2rem;
+}
+
+.paragraph {
+}
